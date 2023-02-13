@@ -1,0 +1,45 @@
+
+
+.biodun > li {
+    display: inline-table;
+    background-color: rgb(153, 14, 14);
+    list-style: none;
+    padding: 5%;
+    margin-left: 22rem;
+    justify-content: center;
+    line-height: 5px;
+    margin: 20px;
+    color: rgb(153, 37, 37);
+}
+.biodun > li a {
+    color: white;
+    text-decoration: none;
+}
+
+.biodun  nav {
+    color: aliceblue;
+}
+
+
+h1 {
+    color: brown;
+    text-align: center;
+    font-size: 60px;
+    
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.love > img {
+    -ms-flex-item-align: center;
+}
+
+.home{
+    color: white;
+}
+h2 {
+    font-size: 4
+    0PX;
+}
